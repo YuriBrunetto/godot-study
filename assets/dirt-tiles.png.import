@@ -10,7 +10,7 @@ source_file="res://assets/dirt-tiles.png"
 source_md5="c0a0686404d83afb9531a6713ec12ac4"
 
 dest_files=[ "res://.import/dirt-tiles.png-a70790b3bb1adcd4585405821732913f.stex" ]
-dest_md5="b1ebfb48f80a57b0c5e2651ca6810067"
+dest_md5="45fd9953912825f374d9938cd42cee55"
 
 [params]
 
@@ -19,7 +19,7 @@ compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
